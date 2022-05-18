@@ -6,7 +6,7 @@ target 'SignalRSwift' do
   use_frameworks!
   
   # Pods for SignalR-Swift
-  pod 'Alamofire', '4.9.1'
+  pod 'Alamofire', '<= 4.9.1'
   pod 'Starscream'
 
   target 'SignalR-SwiftTests' do
