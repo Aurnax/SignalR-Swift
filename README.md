@@ -17,10 +17,10 @@ $ gem install cocoapods
 To integrate SignalR-Swift into your Xcode project using CocoaPods, specify it in your Podfile:
 
 ```
-source 'https://github.com/kamrankhan07/SignalR-Swift.git'
+source 'https://github.com/Aurnax/SignalR-Swift.git'
 platform :ios, '9.0'
 
-pod 'SignalRSwift', :git => 'https://github.com/kamrankhan07/SignalR-Swift.git'
+pod 'SignalRSwift', :git => 'https://github.com/Aurnax/SignalR-Swift.git'
  ```
 
 Then, run the following command:
