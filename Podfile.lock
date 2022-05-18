@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (4.9.1)
+  - Alamofire (= 4.9.1)
   - Mockit (1.5.0)
   - Nimble (8.0.7)
   - Quick (2.2.0)
